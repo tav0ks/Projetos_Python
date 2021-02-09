@@ -1,3 +1,5 @@
+# este programa é um jogo onde a palavra precisa ser adivinhada e o jogador possui 3 chances
+
 palavra = 'violao'
 chances = 3
 tentativas = []
